@@ -1,0 +1,3 @@
+rootProject.name = 'websocket_client_test'
+
+include ':app'
